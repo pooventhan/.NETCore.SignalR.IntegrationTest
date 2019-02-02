@@ -1,0 +1,1 @@
+# .NETCore.SignalR.IntegrationTest
